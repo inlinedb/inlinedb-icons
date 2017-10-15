@@ -3,7 +3,10 @@
 </p>
 
 <h3 align="center">
-    InlineDB Icons
+    InlineDB Icons<br/>
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <img alt="License: CC BY-NC-ND 4.0" src="https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png">
+    </a>
 </h3>
 
 <p align="center">
